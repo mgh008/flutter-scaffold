@@ -1,0 +1,11 @@
+/*
+
+!/.gitignore
+!/Podfile
+
+!/Runner/
+!/Runner.xcodeproj/
+
+/Runner/GeneratedPluginRegistrant.*
+/Runner.xcodeproj/xcuserdata/
+
